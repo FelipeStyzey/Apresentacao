@@ -1,7 +1,7 @@
 # Olá, meu nome é Felipe Styzey
 
 ## Sobre mim:
-Tenho atualmente 27 anos e estou migrando para a área de programação. Estou focando na área de ciência de dados, aprendendo principalmente Python, SQL e NoSQL. 
+Tenho atualmente 28 anos e estou migrando para a área de programação. Estou focando na área de ciência de dados, aprendendo principalmente Python, SQL e NoSQL. 
 Procuro estudar e aprender skills suficientes para me realocar no mercado de trabalho e atingir meu grande objetivo que é de trabalhar na área de programação.
 
 ## Contato:
